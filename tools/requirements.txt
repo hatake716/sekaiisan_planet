@@ -1,0 +1,2 @@
+Pillow>=11.0,<13
+mwparserfromhell>=0.7,<0.8

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="500" viewBox="0 0 1024 500">
+<defs><radialGradient id="o"><stop stop-color="#315e70"/><stop offset="1" stop-color="#101d2b"/></radialGradient></defs>
+<rect width="1024" height="500" fill="#0b1320"/><circle cx="820" cy="250" r="270" fill="url(#o)" stroke="#365362" stroke-width="2"/>
+<g fill="none" stroke="#527578" stroke-width="1" opacity=".5"><ellipse cx="820" cy="250" rx="145" ry="270"/><path d="M560 165Q820 225 1080 165 M555 325Q820 265 1085 325"/></g>
+<g fill="#ffd699"><path d="M695 193 820 125 945 193V215H695Z M718 230H750V332H718Z M804 230H836V332H804Z M890 230H922V332H890Z M695 350H945V375H695Z"/></g>
+<text x="62" y="133" fill="#86bcb8" font-size="18" font-family="sans-serif" letter-spacing="5">WORLD HERITAGE GLOBE</text>
+<g font-family="Noto Sans CJK JP, sans-serif" fill="#f7eddf" font-weight="bold"><text x="58" y="232" font-size="52">地球儀で見る</text><text x="58" y="306" font-size="64">世界遺産</text></g>
+<text x="62" y="380" fill="#c0cbd1" font-size="23" font-family="Noto Sans CJK JP, sans-serif">地球を回して、世界の宝を訪ねる。</text>
+</svg>
