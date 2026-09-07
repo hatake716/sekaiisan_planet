@@ -2,7 +2,7 @@
 
 - アプリ名: 地球儀で見る世界遺産
 - applicationId: `io.github.hatake716.sekaiisanplanet`
-- バージョン: 1.0.0 / versionCode 1
+- バージョン: 1.0.1 / versionCode 2
 - カテゴリ候補: 教育
 - 料金方式: 買い切りの有料アプリとして販売可能。販売価格・対象国は Play Console で設定します。アプリ内課金・広告はありません。
 - 対応 OS: Android 11 以降 / target API 36
@@ -17,6 +17,8 @@
 
 「地球儀で見る世界遺産」は、3D 地球儀に立つピンから世界遺産の写真・解説・登録情報を楽しめるアプリです。ドラッグで地球を回し、ピンチで拡大して、気になる場所をタップ。写真・説明・地球画像は同梱しているため、オフラインでも閲覧できます。
 
+北極・南極を越えて続けて回転でき、最大まで拡大しても画面内のピンから詳細を開けます。
+
 文化遺産・自然遺産・複合遺産と地域で絞り込めます。名称・別名・国名の検索、分類順・名前順・登録年順の一覧、お気に入りのブックマークにも対応しています。
 
 Wikipedia の記事や、関連する YouTube 動画の検索結果にもアクセスできます。外部ページの閲覧にはインターネット接続が必要です。
@@ -28,6 +30,8 @@ Wikipedia の記事や、関連する YouTube 動画の検索結果にもアク�
 本アプリは UNESCO、Google、Wikipedia の公式アプリではありません。
 
 ## 提出する素材と設定
+
+更新内容の貼り付け用テキスト: [release-notes-ja-JP.txt](play/release-notes-ja-JP.txt)。バージョンごとの成果物情報は [release-1.0.1.json](play/release-1.0.1.json) を参照してください。
 
 - アップロード用の署名済み AAB: `app/build/outputs/bundle/release/app-release.aab`
 - アイコン: `docs/play/icon_512.png`（512 × 512）

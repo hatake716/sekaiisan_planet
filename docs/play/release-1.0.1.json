@@ -1,0 +1,28 @@
+{
+  "applicationId": "io.github.hatake716.sekaiisanplanet",
+  "versionName": "1.0.1",
+  "versionCode": 2,
+  "date": "2026-09-07",
+  "minSdk": 30,
+  "targetSdk": 36,
+  "certificateSha256": "4400916099aa24717d55159ae233b982a6a91fb5c1d347502d1474d436f65c40",
+  "artifacts": {
+    "apk": {
+      "path": "app/build/outputs/apk/release/app-release.apk",
+      "bytes": 177287385,
+      "sha256": "ce9f6080d996010e6b4e14727e011b80247de94a947e84f81b558369b16c913b"
+    },
+    "aab": {
+      "path": "app/build/outputs/bundle/release/app-release.aab",
+      "bytes": 173393127,
+      "sha256": "43a4facc45506f8a8c930e2399c2fb3dd3735ccf02f46da2601641ac8c2b19b6"
+    },
+    "mapping": {
+      "path": "app/build/outputs/mapping/release/mapping.txt",
+      "bytes": 31918539,
+      "sha256": "24426b7038826232791e9c33ff7a0cb6a94b378a074adf85b617bf15670be2de"
+    }
+  },
+  "releaseNotes": "docs/play/release-notes-ja-JP.txt",
+  "playConsoleUploaded": false
+}

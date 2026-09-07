@@ -2,6 +2,10 @@
 
 Android 11 以降（minSdk 30）、compileSdk / targetSdk 36。JDK 17 以降。
 
+現行版: **1.0.1 / versionCode 2**。既存の 1.0.0 と同じ専用アップロード鍵を使用します。今回の APK は既存インストールへデータを保持して更新できます。成果物のサイズ・SHA-256・証明書は [play/release-1.0.1.json](play/release-1.0.1.json)、Play 向け更新文は [play/release-notes-ja-JP.txt](play/release-notes-ja-JP.txt) に記録しています。
+
+ローカルの `artifacts/1.0.1/google-play-1.0.1.zip` に、AAB・難読化マッピング・掲載文・更新文・画像・プライバシーポリシー原稿・検証記録をまとめています。署名鍵とパスワードは含めていません。ZIP 自体ではなく、中の AAB を Play Console に提出します。
+
 ```sh
 printf 'sdk.dir=/path/to/Android/Sdk\n' > local.properties
 ./gradlew testDebugUnitTest lintRelease assembleRelease bundleRelease

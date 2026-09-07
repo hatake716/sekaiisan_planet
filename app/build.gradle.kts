@@ -25,8 +25,8 @@ android {
         minSdk = 30
         targetSdk = 36
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
-        versionCode = 1
-        versionName = "1.0.0"
+        versionCode = 2
+        versionName = "1.0.1"
     }
 
     // 地球テクスチャ・写真(JPEG)は既に圧縮済みなので aapt の再圧縮を避ける
