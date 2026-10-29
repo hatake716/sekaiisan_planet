@@ -37,6 +37,7 @@ Wikipedia の記事や、関連する YouTube 動画の検索結果にもアク�
 - アイコン: `docs/play/icon_512.png`（512 × 512）
 - フィーチャーグラフィック: `docs/play/feature_1024x500.png`（1024 × 500）
 - 実画面のスクリーンショット: `docs/screenshots/`
+- プロモーション動画: `docs/play/promo_1080x2400.mp4`（YouTube に上げ、その URL を Console に指定します。詳細は [PROMO_VIDEO.md](play/PROMO_VIDEO.md)）
 - プライバシーポリシー原稿: `docs/PRIVACY.md`
 
 プライバシーポリシーは、誰でもアクセスできる通常の HTTPS ウェブページで公開し、その URL を Play Console に指定します。署名済み AAB、各種素材、原稿の準備と、Play Console への登録・審査・販売開始は別の工程です。
